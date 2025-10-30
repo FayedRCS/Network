@@ -7,11 +7,8 @@ In large businesses, due to potential high network traffic, it is often necessar
 
 ## Pros & cons of P2P
 | pros | cons | 
-|---|---|
+|:---:|:---:|
 | Easy setup| No centralized administration |
-|---|---|
 | Less complex | Not as secure |
-|---|---|
 | Lower cost | Not scalable |
-|---|---|
 | Useful for simple tasks | Slow performance |
