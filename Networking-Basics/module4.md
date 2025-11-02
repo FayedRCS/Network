@@ -24,4 +24,4 @@ Other technologies that use the 2.4 GHz and 5 GHz bands are the modern wireless 
 
 The figure shows where wireless technologies exist on the electromagnetic spectrum:
 
-![Alt Text](Wireless-frequencies-2.4GHz-5GHz-IEEE-802.11standard.png "Electromagnetic spectrum")
+![Alt Text](assets/images/Wireless-frequencies-2.4GHz-5GHz-IEEE-802.11standard.png "Electromagnetic spectrum")
