@@ -24,7 +24,7 @@ Network infrastrucutre contains 3 categories:
 
 ### ISP Connectivity Options
 
-![Image overview of ISP connect options](assets/images/ISP-Connect-options-img.png)
+![Image overview of ISP connect options](/Networking-Basics/assets/images/ISP-Connect-options-img.png)
 
 Top option has a direct connection to the internet. 
 Not recommended due to being vulnerable on the internet.
