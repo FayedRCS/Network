@@ -25,3 +25,12 @@ Other technologies that use the 2.4 GHz and 5 GHz bands are the modern wireless 
 The figure shows where wireless technologies exist on the electromagnetic spectrum:
 
 ![Alt Text](/Networking-Basics/assets/images/Wireless-frequencies-2.4GHz-5GHz-IEEE-802.11standard.png "Electromagnetic spectrum")
+
+## Wired Network Technologies
+
+The most commonly implemented wired protocol is the Ethernet protocol. Ethernet uses a suite of protocols that allow network devices to communicate over a wired LAN connection. An Ethernet LAN can connect devices using many different types of wiring media.
+
+Directly connected devices use an Ethernet patch cable, usually unshielded twisted pair. These cables can be purchased with the RJ-45 connectors already installed, and they come in various lengths. Recently constructed homes may have Ethernet jacks already wired in the walls of the home. For those homes that do not have UTP wiring, there are other technologies, such as powerline, that can distribute wired connectivity throughout the premises.
+
+## Wireless Standards
+
