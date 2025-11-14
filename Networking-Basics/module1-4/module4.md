@@ -34,3 +34,32 @@ Directly connected devices use an Ethernet patch cable, usually unshielded twist
 
 ## Wireless Standards
 
+The IEEE 802.11 standard governs the WLAN environment. There are amendments to the IEEE 802.11 standard that describe characteristics for different standards of wireless communications. Wireless standards for LANs use the 2.4 GHz and 5 GHz frequency bands. Collectively these technologies are referred to as Wi-Fi.
+
+#### Network mode 
+Determines the type of technology that must be supported. For example,802.11b,802.11g,802.11n or Mixed Mode.
+
+#### Network Name (SSID)
+Used to identify the WLAN. All devices that wish to participate in the WLAN must have the same SSID. SSID stands for Service Set Identifier.
+
+#### Standard channel
+Specifies the channel over which communication will occur. By default, this is set to Auto to allow the access point (AP) to determine the optimum channel to use.
+
+#### SSID broadcast
+Determines if the SSID will be broadcast to all devices within range. By default, set to Enabled.
+
+Wireless devices contain radio transmitter/receivers that function within a specific frequency range. If a device only has the necessary radio for 802.11 b/g, it will not connect if the wireless router or access point is configured to only accept 802.11n or 802.11ac standards. If all devices support the same standard, the network will work at its optimum speed. If you have devices that do not support the n or ac standards, then you will have to enable legacy mode. A legacy mode wireless network environment varies between router models but can include a combination of 802.11a, 802.11b, 802.11g, 802.11n, and 802.11ac. This environment provides easy access for legacy devices that need a wireless connection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
